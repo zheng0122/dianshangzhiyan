@@ -1,0 +1,10 @@
+{
+  "shop_name": "示例小店",
+  "audience": "25-35岁、注重性价比的上班族",
+  "style": "亲切自然，不夸张",
+  "products": [
+    {"name": "纯银戒指", "selling_points": ["纯银材质", "简约设计", "日常百搭"]},
+    {"name": "户外折叠椅", "selling_points": ["便携轻巧", "承重稳定", "收纳方便"]}
+  ],
+  "banned_words": []
+}
